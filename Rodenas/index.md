@@ -1,4 +1,4 @@
-<?php require_once 'dbconfig.php'; ?>
+```<?php require_once 'dbconfig.php'; ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -40,4 +40,4 @@
   </table>
 
 </body>
-</html>
+</html>```
